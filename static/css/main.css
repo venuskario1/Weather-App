@@ -1,0 +1,50 @@
+/*Create CSS styling for project Here*/
+
+#city{
+
+    float: center;
+    text-align: center;
+    
+}
+#weather-information{
+
+    text-align: center;
+}
+
+
+.submit-city{
+
+    text-align: 
+}
+.form-control{
+    
+}
+
+.btn-btn-primary{
+    text-align: left;
+}
+
+.container {
+    border: 1px sol
+    background-color:
+    padding: 10px;
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
+#ht{
+    background-color:red;
+}
+
+#lt{
+    background-color:blue;
+}
+
+#Fc{
+    background-color:gray;
+}
+
+#Hm{
+    background-color:lightgreen;
+}
